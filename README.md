@@ -8,7 +8,7 @@ Python
 Beautiful Soup (for web scraping)
 SQLite (for database operations)
 
-Utilizing Beautiful Soup library for web scraping, this project extracts data from the specified website and saves the acquired information into both a CSV file and an SQLite database. This setup enables organizations like Multiplex management or similar entities to analyze and utilize the data as needed.
+Utilizing Beautiful Soup library for web scraping, this project extracts data from the specified website and saves the acquired information into both a CSV file and an SQLite database. This setup enables similar entities to analyze and utilize the data as needed.
 
 
 ## Collecting Data of Top 50 Films Using Web Scraping
